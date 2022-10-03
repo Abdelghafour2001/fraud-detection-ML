@@ -1,9 +1,10 @@
+#REST API for FRAUD DETECTION
+-----------
+## Single page to visualize the api results
+<img src="./2.png" alt="index1"/>
+## Architecture of the visualisation web page
+<img src="./1.png" alt="index1"/>
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/pull/)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
-# 2AF_FRAUD_DETECTION
-REST API for FRAUD DETECTION
 
 <<<<<<< HEAD
 The API acces points
@@ -58,5 +59,3 @@ The steps below are just one example. Your approach will vary depending on your 
 
 8-Once you’re satisfied with your results, move your model into production. Write back any relevant findings to the Neo4j Graph Database to support further exploration.
 
-
->>>>>>> 5588a352dea1a8f58a272f06dd2c47e94493ca9a
